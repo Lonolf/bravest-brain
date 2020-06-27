@@ -1,0 +1,45 @@
+/*
+ * DIRECT actions
+ */
+
+export const REDUCE_EDIT_ANSWERS = 'REDUCE_EDIT_ANSWERS'
+
+export const REDUCE_CREATE_QUIZ = 'REDUCE_CREATE_QUIZ'
+export const REDUCE_EDIT_QUIZ = 'REDUCE_EDIT_QUIZ'
+export const REDUCE_CREATE_QUESTION = 'REDUCE_CREATE_QUESTION'
+export const REDUCE_EDIT_QUESTION = 'REDUCE_EDIT_QUESTION'
+
+export const REDUCE_EDIT_USER = 'REDUCE_EDIT_USER'
+
+export const REDUCE_EDIT_RESULTS = 'REDUCE_EDIT_RESULTS'
+
+export const START_LOADING = 'START_LOADING'
+export const STOP_LOADING = 'STOP_LOADING'
+
+export const REDUCE_LOGOUT = 'REDUCE_LOGOUT'
+
+/*
+ * SAGA actions
+ */
+
+export const AUTO_LOGIN = 'AUTO_LOGIN'
+export const LOGOUT = 'LOGOUT'
+
+export const GET_QUIZ_INDEX = 'GET_QUIZ_INDEX'
+export const GET_QUIZ = 'GET_QUIZ'
+export const CREATE_QUIZ = 'CREATE_QUIZ'
+export const EDIT_QUIZ = 'EDIT_QUIZ'
+
+export const CREATE_ANSWER = 'CREATE_ANSWER'
+
+export const GET_RESULTS = 'GET_RESULTS'
+
+export const REDUCE_CREATE_ERROR = 'REDUCE_CREATE_ERROR'
+export const REDUCE_DELETE_ERROR = 'REDUCE_DELETE_ERROR'
+
+export const REDUCE_EDIT_QUIZ_INDEX = 'REDUCE_EDIT_QUIZ_INDEX'
+
+export const ERROR = 'ERROR'
+/*
+ * SAGA Commands
+ */
