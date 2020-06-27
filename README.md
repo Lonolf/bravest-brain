@@ -2,6 +2,8 @@ WARNING! THIS IS A BETA VERSION WARNING!
 
 This is a beta version of the software. That said, my girlfriend used it with hers scholars and they completed a simple quiz, so, it works.
 
+![Image of Yaktocat](https://drive.google.com/file/d/1JetQdUmjwSL3O8_D375o8tMoHQCkcNlJ/view?usp=sharing)
+
 INTRODUCTION
 
 I needed a simple webApp to make and manage quiz for my girlfriend, who teaches on a elementary school, so I cobble something together to help her.
