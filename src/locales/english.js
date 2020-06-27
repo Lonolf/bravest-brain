@@ -29,16 +29,33 @@ const dates = {
 }
 
 const translation = {
-  login_title: 'Inizio',
-  login_text: 'Inserisci i tuoi dati',
-  login_name: 'Nome',
-  login_check_button: 'Avvia',
-  answers_title: 'Risultati',
-  answers_correctAnswers01: 'Hai risposto correttamente a ',
-  answers_correctAnswers02: ' domande',
-  answers_text: 'Bravissimo! Continua così!',
+  answers_title: 'Results',
+  answers_correctAnswers01: 'You answered correctly to ',
+  answers_correctAnswers02: ' questions',
+  answers_text: 'Good job!',
+  login_title: 'Start',
+  login_text: 'Select a quiz',
+  login_name: 'Name',
+  login_check_button: 'Start',
+  login_quizSelector_label: 'Select a quiz',
+  login_results_button: 'Results',
+  login_editor_button: 'Editor',
+  menuBar_home: 'Home',
+  menuBar_login: 'Login',
+  menuBar_logout: 'Logout',
+  quizCreator_newQuizId_label: 'Choose a quizId',
+  quizCreator_createQuiz: 'Make',
+  quizCreator_quizIdAlreadyUser_error: 'Quiz id already used',
+  quizEditor_questionText_label: 'Question',
+  quizEditor_save_button: 'Save',
+  quizEditor_answerText_label: 'Answer',
+  quizEditor_quizTitle_label: 'Quiz title',
+  quizEditor_answersTime_label: 'Max time of answers',
+  resultsTable_date_label: 'Date',
+  resultsTable_name_label: 'Name',
+  resultsTable_results_label: 'Results',
+  resultsTable_title: 'Table of results of the quiz "',
 }
-
 const toPrice = price => {
   return String(price.toFixed(2))
 }
