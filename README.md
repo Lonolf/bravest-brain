@@ -1,3 +1,7 @@
+DEMO
+
+https://bravest-brain.web.app/
+
 WARNING! THIS IS A BETA VERSION WARNING!
 
 This is a beta version of the software. That said, my girlfriend used it with hers scholars and they completed a simple quiz, so, it works.
